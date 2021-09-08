@@ -15,10 +15,4 @@ Flow:
 
 Home Page >> View all Customers >> Select and View one Customer >> Transfer Money >> Select customer to transfer to >> View all Customers
 
-Hosting Platform> 000Webhost
 
-Project Link >> https://shivansh-7199.000webhostapp.com
-
-My Profile >> https://www.linkedin.com/in/shivansh-verma-9b5060196
-
-Youtube:: https://youtu.be/06lRKQ5vfSI
